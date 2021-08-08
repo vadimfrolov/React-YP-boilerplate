@@ -2,6 +2,7 @@
 React clean boilerplate based on YP description
 
 scripts:
+
     - "start": "webpack serve --mode development --open --hot --port 3000",
     - "build": "webpack --mode production",
 
