@@ -12,11 +12,11 @@ stack:
 - webpack-cli
 - react
 - react-dom
-- @babel/core
-- babel-loader
-- @babel/preset-env
-- @babel/preset-react
 - css-loader
 - style-loader
 - html-webpack-plugin
 - webpack-dev-server
+- react-dom
+- react-router-dom
+- ts-loader
+- typescript
